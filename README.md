@@ -32,6 +32,6 @@ BATCH: D83
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL: 
+DEMO VIDEO URL: https://youtu.be/y3q4c-xO2_8?si=lIqzIDD21BFjUBDm
 
-LINKED IN URL : 
+LINKED IN URL : www.linkedin.com/in/shakthi-sivani-g-939658294
